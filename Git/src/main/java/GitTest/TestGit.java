@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("创建模块");
         System.out.println("分支模块");
         System.out.println("主干模块");
+        System.out.println("在线更新");
     }
 }
